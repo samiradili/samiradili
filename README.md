@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samir adili
+- 👋 Hi, I’m @sam
 - 👀 I’m interested in InfoSecurity
 - 🌱 I’m currently learning Cybersecurity 
 - 💞️ I’m looking to collaborate on all
